@@ -48,6 +48,20 @@ This is a pure local, privacy-first, and highly customized habit tracking applic
 > 
 > 我并非计算机科班出身，但在 AI 的协助下，我将我的产品理念变成了现实。这证明了：**想法比语法更重要。**
 
+
+## ☕ Support Me (请我喝咖啡)
+
+If this app helps you become a better version of yourself, you can buy me a coffee to keep my keyboard firing!  
+如果这个 App 帮到了你，或者你喜欢我的开发理念，欢迎打赏支持，让我的AI运行速度更快一点！
+
+<p align="center">
+  <img src="static/reward.jpg" width="200" alt="Alipay Reward Code" />
+</p>
+
+> **Note**: This is purely voluntary. The App will always be free and open source.  
+> **注**：打赏纯属自愿。App 永远免费开源，绝无付费墙。
+
+
 ---
 
 ## ⚖️ License (开源协议)
@@ -74,4 +88,6 @@ You are free to use, modify, and distribute this software, BUT you must comply w
 
 <p align="center">
   Made with AI by <a href="https://space.bilibili.com/437113079">道系青年Lee</a>
+
 </p>
+
