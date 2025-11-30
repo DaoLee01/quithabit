@@ -52,7 +52,7 @@ This is a pure local, privacy-first, and highly customized habit tracking applic
 ## ☕ Support Me (请我喝咖啡)
 
 If this app helps you become a better version of yourself, you can buy me a coffee to keep my keyboard firing!  
-如果这个 App 帮到了你，或者你喜欢我的开发理念，欢迎打赏支持，让我敲代码的手速更快一点！
+如果这个 App 帮到了你，或者你喜欢我的开发理念，欢迎打赏支持，让我的AI运行速度更快一点！
 
 <p align="center">
   <img src="static/reward.jpg" width="200" alt="Alipay Reward Code" />
@@ -90,3 +90,4 @@ You are free to use, modify, and distribute this software, BUT you must comply w
   Made with AI by <a href="https://space.bilibili.com/437113079">道系青年Lee</a>
 
 </p>
+
